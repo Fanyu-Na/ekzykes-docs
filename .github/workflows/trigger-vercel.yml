@@ -1,0 +1,13 @@
+name: Trigger Vercel on Docs Push
+
+on:
+  push:
+    branches:
+      - master
+
+jobs:
+  trigger:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Trigger deploy hook
+        run: curl -fsS -X POST "${{ secrets.VERCEL_DEPLOY_HOOK_URL }}"
