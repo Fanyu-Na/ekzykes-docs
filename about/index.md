@@ -12,5 +12,5 @@ permalink: about/
 
 **联系**
 
-    昵称与站点作者「Ekzykes」一致，各平台搜得到的话欢迎打招呼。
-    邮箱: <i@ekzykes.me>
+昵称与站点作者「Ekzykes」一致，各平台搜得到的话欢迎打招呼。
+邮箱: <i@ekzykes.me>
