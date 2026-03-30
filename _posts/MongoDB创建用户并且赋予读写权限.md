@@ -6,6 +6,11 @@ modified: 1741325738
 categories:
   - 技术笔记
   - 数据库
+tags:
+  - MongoDB
+  - 用户管理
+  - 权限控制
+  - readWrite
 ---
 
 ```bash

@@ -9,6 +9,11 @@ categories:
   - 技术笔记
   - 环境配置
   - Windows
+tags:
+  - Windows
+  - Miniconda
+  - PowerShell
+  - Python环境
 ---
 
 # 一、Minicanda安装

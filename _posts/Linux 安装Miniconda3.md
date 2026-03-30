@@ -9,6 +9,11 @@ categories:
   - 技术笔记
   - 环境配置
   - Linux
+tags:
+  - Linux
+  - Miniconda
+  - Conda
+  - Python环境
 ---
 
 1. 获取conda

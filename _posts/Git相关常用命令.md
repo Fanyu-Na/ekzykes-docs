@@ -7,6 +7,11 @@ slug: git-config
 categories:
   - 技术笔记
   - 开发工具
+tags:
+  - Git
+  - Git配置
+  - user.name
+  - core.fileMode
 ---
 
 在Git中，设置用户名和邮箱是非常重要的，因为它能帮助你在提交代码时正确地标识自己。你可以通过以下步骤来设置Git的用户名和邮箱：

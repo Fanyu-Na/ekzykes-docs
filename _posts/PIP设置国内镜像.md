@@ -8,6 +8,11 @@ categories:
   - 技术笔记
   - 环境配置
   - Python
+tags:
+  - pip
+  - Python
+  - 镜像源
+  - 清华镜像
 ---
 
 pip设置国内镜像
